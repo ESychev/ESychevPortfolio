@@ -167,4 +167,8 @@ h2 {
     .header_body_inner .right img {
         border-radius: 50%;
     }
+    .head_inner {
+        display: flex;
+        flex-wrap: wrap;
+    }
 }
